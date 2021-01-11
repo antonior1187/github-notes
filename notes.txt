@@ -1,7 +1,8 @@
-Git
-
+Git:
+A Version Control Software
 Github
-
+Web Service
 Repo
-
+A Project
 Commit
+A Save
