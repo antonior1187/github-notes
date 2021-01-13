@@ -1,8 +1,13 @@
 Git:
 A Version Control Software
-Github
+Github:
 Web Service
-Repo
+Repo:
 A Project
-Commit
+Commit:
 A save that allow you to see what has changed and appears in history
+Clone: Make an entire copy of repo from remote to local
+Commit:Snapshot of Changes, Can show what changed in between commits, You can undo a commit.
+Push:Send commits from local to remote
+Pull:Receive commits from remote to local
+In github each person has their own copy and can push/pull so people can work together easily
